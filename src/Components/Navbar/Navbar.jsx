@@ -56,7 +56,7 @@ function Navbar() {
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">Contact</a>
+              <a href="#" className="navLink">Contacts</a>
             </li>
 
             <button className='btn'>
