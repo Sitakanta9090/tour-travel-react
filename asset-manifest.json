@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/tour-travel-react/static/css/main.578da890.css",
+    "main.js": "/tour-travel-react/static/js/main.0143c5fa.js",
+    "static/media/video2.mp4": "/tour-travel-react/static/media/video2.eb7643a3d196c37b5b2c.mp4",
+    "static/media/video.mp4": "/tour-travel-react/static/media/video.fb7a3c58c0550f2f0cf1.mp4",
+    "static/media/img(11).jpeg": "/tour-travel-react/static/media/img(11).8191f4548a9afd27cc2f.jpeg",
+    "static/media/img(14).jpeg": "/tour-travel-react/static/media/img(14).7f6eaba587f400d5e93a.jpeg",
+    "static/media/img(4).jpeg": "/tour-travel-react/static/media/img(4).eade03746b35181ada7e.jpeg",
+    "static/media/img(6).jpeg": "/tour-travel-react/static/media/img(6).e2bf6d56d8d2e9133cdc.jpeg",
+    "static/media/img(5).jpeg": "/tour-travel-react/static/media/img(5).b09d7f927a273d38330e.jpeg",
+    "static/media/img(9).jpeg": "/tour-travel-react/static/media/img(9).111f3c30bbbe0b4102a4.jpeg",
+    "static/media/img(13).jpeg": "/tour-travel-react/static/media/img(13).b672fd50061f9bc41284.jpeg",
+    "static/media/img(3).jpeg": "/tour-travel-react/static/media/img(3).9e000dfb09539728e2b4.jpeg",
+    "static/media/img(7).jpeg": "/tour-travel-react/static/media/img(7).37fd7284f5f56a594af9.jpeg",
+    "static/media/img(1).jpeg": "/tour-travel-react/static/media/img(1).36488c186a8ed5e4cf85.jpeg",
+    "static/media/img(15).jpeg": "/tour-travel-react/static/media/img(15).25fa7de738e5411e2fa2.jpeg",
+    "static/media/img(2).jpeg": "/tour-travel-react/static/media/img(2).9bc3d694008aeb03bff2.jpeg",
+    "static/media/img(10).jpeg": "/tour-travel-react/static/media/img(10).8d7abc755dc186eb7618.jpeg",
+    "static/media/img(12).jpeg": "/tour-travel-react/static/media/img(12).94cf3d8a966232ba7629.jpeg",
+    "static/media/img(8).jpeg": "/tour-travel-react/static/media/img(8).83061603b3da5da52f2c.jpeg",
+    "index.html": "/tour-travel-react/index.html",
+    "main.578da890.css.map": "/tour-travel-react/static/css/main.578da890.css.map",
+    "main.0143c5fa.js.map": "/tour-travel-react/static/js/main.0143c5fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.578da890.css",
+    "static/js/main.0143c5fa.js"
+  ]
+}
